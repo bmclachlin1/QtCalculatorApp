@@ -6,4 +6,4 @@ To deploy on windows 10, make sure you have the latest version of Qt downloaded.
 
 Refer to https://doc.qt.io/qt-5/windows-deployment.html for more info.
 
-<img src="/imgs/calculator.jpg" width=100%>
+<img src="/imgs/calculator.JPG" width=100%>
