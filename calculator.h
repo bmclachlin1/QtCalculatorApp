@@ -18,6 +18,7 @@ public:
 private:
     Ui::Calculator *ui;
 
+// Event Listeners
 private slots:
     void NumPressed();
     void MathButtonPressed();
